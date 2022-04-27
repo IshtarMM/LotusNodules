@@ -1,7 +1,7 @@
 # LotusNodules
 
-This repository includes data and scripts used for the manuscript **"The microbiome of Lotus nodules varies with plant health in a species-specific manner"**
+This repository includes data and scripts used for the manuscript **"Microbiome profiling reveals that Pseudomonas antagonises parasitic nodule colonisation of cheater rhizobia in Lotus"**
 
-manuscript is currently available as a preprint in [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2021.05.19.441130v1).
+manuscript is currently available as a preprint in [*New Phytologist*](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17988).
 
 Scripts are written by [Maryam Mahmoudi](mailto:maryam.mahmoudi@uni-tuebingen.de) and [Duncan B. Crosbie](mailto:d.crosbie@bio.lmu.de).
