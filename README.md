@@ -8,6 +8,8 @@ The findings are detailed in the paper:
 Scripts are authored by **Maryam Mahmoudi**.
 
 ---
+![My Figure](LotusNodulesMicrobiome/fig6/fig6.pdf)
+---
 
 ## Features
 - **Comprehensive Data**: Includes data for machine learning feature importance and microbial network analyses.  
